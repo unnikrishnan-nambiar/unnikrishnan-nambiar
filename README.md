@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @unnikrishnan-nambiar
 - 👀 I’m interested in Automation and Artificial Intelligence
 - 🌱 I’m currently learning Product Management.
-- 💞️ I’m looking to collaborate on Electronics and Automation Systems.
 - 📫 You can reach me on www.linkedin.com/in/unnikrishnanbnambiar/
 
 <!---
